@@ -1,0 +1,5 @@
+Answers
+1 Gitignore file contains files that should be ignored when committing to remote repositories in java projects
+2 Fast forward moves the source to target without creating extra merge
+3 Branches help developers to work individually from branching original code
+4 There is no limit for having git repositories, but there is only one default made by Git while cloning. 
